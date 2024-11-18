@@ -14,6 +14,10 @@
 ![7 Construct a C program to implement non-preemptive SJF algorithm](https://github.com/user-attachments/assets/ca744e17-4664-4cf4-9c09-6e8fc67b98b5)
 8.Construct a C program to simulate Round Robin scheduling algorithm with C
 ![8 Construct a C program to simulate Round Robin scheduling algorithm with C](https://github.com/user-attachments/assets/3087d1dd-a612-4ad3-a014-2079f78ec078)
+9.Illustrate the concept of inter-process communication using shared memory with a C program 
+![image](https://github.com/user-attachments/assets/77635ebb-54e4-42a1-9537-bfd9cbe95ddd)
+10.Illustrate the concept of inter-process communication using message queue with a c program 
+![image](https://github.com/user-attachments/assets/42de7d78-34c9-4c7e-87ed-8999787ea8b4)
 11.Illustrate the concept of multithreading using a C program.
 ![11 Illustrate the concept of multithreading using a C program](https://github.com/user-attachments/assets/b7e4a2a0-ec83-41c6-b5d9-9dd60e6af75d)
 12.Design a C program to simulate the concept of Dining-Philosophers problem.
@@ -42,6 +46,8 @@
 ![23 Construct a C program to implement first fit algorithm of memory management](https://github.com/user-attachments/assets/6b3482cf-c8d3-4678-8612-4620af0f1562)
 24.Design a C program to demonstrate UNIX system calls for file management.
 ![24 Design a C program to demonstrate UNIX system calls for file management](https://github.com/user-attachments/assets/4fa433ff-b9d1-40e7-b82e-78df41a228e2)
+25. Construct a C program to implement the I/O system calls of UNIX 
+![image](https://github.com/user-attachments/assets/5f052171-aefe-4e2d-95e2-80d8576887a6)
 26.Construct a C program to implement the file management operations.
 ![26 Construct a C program to implement the file management operations](https://github.com/user-attachments/assets/6740b3a6-dc89-4257-8cfa-a7365b211578)
 27.Develop a C program for simulating the function of ls UNIX Command.
